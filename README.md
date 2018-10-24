@@ -4,7 +4,7 @@
 
 ------­---­-----
 
-`set-screenresolution -width 1920 -height 1080`
+````set-screenresolution -width 1920 -height 1080````
 This line at the bottom of SetResolution.ps1 dictates the resolution requirement. Hard coded here for simplicity as no other resolutions will be necessary.
 
 ---
